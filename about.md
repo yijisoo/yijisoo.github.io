@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+* VP of Samsung Electronics, Co., Ltd. leading the Intelligence Strategy Group.
+* Former Purdue Industrial Engineering Faculty
+* Interested in AI, HCI, DataVis
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Married, having two daughters, inquisitive, and Korean
+
+### Publications
+
+[Google Scholar](https://scholar.google.com/citations?user=LqWIQ8kAAAAJ)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yijisoo@gmail.com](mailto:yijisoo@gmail.com)
