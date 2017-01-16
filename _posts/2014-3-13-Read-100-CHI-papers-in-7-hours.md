@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QnDReview: Read 100 CHI papers in 7 hours
+title: Read 100 CHI papers in 7 hours
 ---
 
 Originally posted on [Facebook](https://www.facebook.com/yijisoo/posts/10100825474858689)
