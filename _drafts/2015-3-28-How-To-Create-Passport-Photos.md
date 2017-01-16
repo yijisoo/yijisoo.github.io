@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Create Passport Photos (DIY)
+unpublished: true
 ---
 
 1. Take your photo according to the [guidelines](https://travel.state.gov/content/passports/en/passports/photos/photos.html)
