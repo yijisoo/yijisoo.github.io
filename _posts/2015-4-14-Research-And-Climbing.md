@@ -3,8 +3,6 @@ layout: post
 title: Research & Climbing
 ---
 
-Original Post: <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyijisoo%2Fposts%2F10101274386775609&width=500" width="500" height="363" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
 연구와 산타기.
 
 막 박사과정을 시작한 학생분들 중에 연구 주제를 못 잡고 방황하는 경우를 많이 봅니다. 아무래도, 어렵게 정한 박사과정을 시작하려다 보면, 뭔가 멋진 연구를 하고 싶은데, 이런 저런 연구 방향이 있고, 장단점도 있어 보이며, 같이 연구할 수 있는 지도 교수의 사정도 있다보니 쉽게 정하지 못하는 경우가 많습니다. 뭔가, 인생의 방향을 정할 것 같은 중요한 문제라 쉽사리 정하시지 못하는 것이지요.
@@ -20,3 +18,5 @@ Original Post: <iframe src="https://www.facebook.com/plugins/post.php?href=https
 그래서, “별 상관 없다. 아무거나 해라.” 라는 조언이 의미가 있는 것이었습니다. 제 경우에도 첫번째 투입된 연구는 제가 그닥 하고 싶은 연구도 아니었고, 고생을 많이 했습니다. 하지만, 그 당시에 배운 방법론들이 제 기초체력이 된 듯 합니다. 덕분에 다음 번 제 스스로의 연구를 할 때, 별 다른 어려움 없이 차근차근 단계를 밟아 할 수 있었다고 생각합니다. 물론, 자신과 잘 맞는 연구란 것을 찾아서 할 수 있으면 좋겠지만, 내공이 없는 상태에서 그것을 알기가 쉽지 않습니다. 아무거나 한 연구가 마지막 연구가 된다면 모를까, 앞으로 다른 연구를 더 하실 생각이시라면, 이것저것 고민하느라 시간 낭비를 하기 보다는, 한 연구를 끝내보는 것 (예컨대, 논문을 한 편 끝내보는 것)이 더 좋지 않나 생각합니다.
 
 다른 의견 있으시면 공유 바랍니다.
+
+[Originally posted on Facebook](https://www.facebook.com/yijisoo/posts/10101274386775609)
