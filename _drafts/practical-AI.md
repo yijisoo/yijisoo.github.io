@@ -21,10 +21,15 @@ I partly agree with ??'s blog post regarding deep neural network is not perfectl
 
 3. What's the most cognitive difficulties that human being have.
 
-There are some tasks that human agents have more difficulties than others.
+There are some tasks that human agents have more difficulties than others. If you review the mistakes that human agents made. Human factors is a good discipline to archieve various failures that human agents have made. Out of these issues, some solutions with the structured steps have been overcome by simply applying 
 
-Open Q&A. 
-Reminding things.
+Follow the structure - 
+Avoid stereotype - 
+Getting tired - 
+Knowing everythings - Open Q&A. 
+Visilance - Reminder.
+
+
 
 4. Infrastructure to help machine agents do its jobs better
 
