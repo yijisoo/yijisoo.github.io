@@ -16,7 +16,7 @@ permalink: /about/
 
 ### [Publications](https://scholar.google.com/citations?user=LqWIQ8kAAAAJ)
 
-### Award
+### Awards
 
 * [Google Research Award](http://googleresearch.blogspot.com/2013/02/google -research-awards-winter-2013.html) (2013)
 * Purdue Entrepreneurial Leadership Academy (2012 - 2013)
