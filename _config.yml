@@ -6,10 +6,11 @@
 name: Ji Soo Yi
 
 # Short bio or description (displayed in the header)
-description: Pursuing practical AI
+description: Personal Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/52509359/jyi_400x400.jpg
+# avatar: https://pbs.twimg.com/profile_images/52509359/jyi_400x400.jpg
+avatar: /images/yijisoo.png
 
 #
 # Flags below are optional
@@ -34,7 +35,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: yijisoo
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:

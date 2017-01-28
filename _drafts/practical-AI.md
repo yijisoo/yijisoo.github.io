@@ -38,3 +38,7 @@ Visilance - Reminder.
 I don't believe that truly machine-learned experiences are not optimal. 
 
 6. Focus on the most important things.
+
+Really working natural language understanding. Some good source of data is necessary.
+
+Unsupervised leanring
