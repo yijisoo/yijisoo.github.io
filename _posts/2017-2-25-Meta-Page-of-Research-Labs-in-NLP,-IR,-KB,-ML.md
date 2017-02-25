@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Labs in NLP, IR, KB, and DM
+title: A Meta Page of Research Labs in NLP, IR, KB, and ML
 ---
 
 = Korean Academic
