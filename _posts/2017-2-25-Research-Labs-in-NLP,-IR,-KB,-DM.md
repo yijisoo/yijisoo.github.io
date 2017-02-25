@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Labs in NLP, IR, KB
+title: Research Labs in NLP, IR, KB, and DM
 ---
 
 = Korean Academic
