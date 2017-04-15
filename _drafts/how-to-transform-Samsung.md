@@ -18,6 +18,3 @@ Though Samsung has infrastructure of various documentation systems (e.g., wiki, 
 I have tried to promote knowledge accumulation through internal wiki. However, as 
 
 Technical Writer.
-
-
-

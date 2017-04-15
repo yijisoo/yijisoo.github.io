@@ -3,7 +3,7 @@ layout: post
 title: Natural Language Understanding
 ---
 
-Understanding natural language by human being would
+One of core 
 
 1. Definition of understanding
 
