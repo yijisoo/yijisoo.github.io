@@ -15,7 +15,7 @@ permalink: /about/
   * Work with [Viv Labs](http://viv.ai/)
   * Open Q&A
   * Samsung Keyboard
-  * [Samsung Galaxy S7 (Unlocked)](http://www.samsung.com/us/mobile/phones/galaxy-s/samsung-galaxy-s7--32gb---unlocked---black-onyx-sm-g930uzkaxaa/)
+  * [Samsung Galaxy S7 (Unlocked)](http://www.androidcentral.com/galaxy-s7-unlocked)
   * [Quick Dial](https://news.samsung.com/global/quick-dial-the-easy-fast-way-to-make-a-phone-call)
 * Academic
   * [Dust & Magnet](https://github.com/yijisoo/DnM/)
