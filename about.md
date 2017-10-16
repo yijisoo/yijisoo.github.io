@@ -8,7 +8,7 @@ permalink: /about/
 
 * VP of Samsung Electronics leading the Intelligence Strategy Group (6/2015 - present)
 * [Associate Professor, Industrial Engineering, Purdue University](https://engineering.purdue.edu/IE/news/2015/professor-ji-soo-yi-promoted) (8/2014 - 6/2016)
-* [Assistant Professor, Industrial Engineering, Purdue University](https://engineering.purdue.edu/IE/news/2015/professor-ji-soo-yi-promoted) (8/2008 - 8/2014)
+* [Assistant Professor, Industrial Engineering, Purdue University](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2008/Yi.htm) (8/2008 - 8/2014)
 
 ### Projects
 
