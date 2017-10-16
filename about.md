@@ -12,7 +12,7 @@ permalink: /about/
 ### Projects
 
 * Industrial
-  * Bixby, particulary [Viv Labs](http://viv.ai/) integration
+  * Bixby, particularly [Viv Labs](http://viv.ai/) integration
   * Open Q&A
   * Samsung Keyboard
   * [Samsung Galaxy S7 (Unlocked)](http://www.androidcentral.com/galaxy-s7-unlocked)
