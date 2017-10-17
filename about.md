@@ -13,7 +13,7 @@ permalink: /about/
 ### Projects
 
 * Industrial
-  * [Bixby](https://en.wikipedia.org/wiki/Bixby_(virtual_assistant)), particularly Open Q&A integration with Google and [Viv Labs](http://viv.ai/) integration
+  * [Bixby](https://en.wikipedia.org/wiki/Bixby_(virtual_assistant)) (Open Q&A and [Viv Labs](http://viv.ai/))
   * Samsung Keyboard
   * [Samsung Galaxy S7 (Unlocked)](http://www.androidcentral.com/galaxy-s7-unlocked)
   * [Quick Dial](https://news.samsung.com/global/quick-dial-the-easy-fast-way-to-make-a-phone-call)
@@ -21,7 +21,9 @@ permalink: /about/
   * [Dust & Magnet](https://github.com/yijisoo/DnM/)
   * [anathe](http://anathe.herokuapp.com/)
 
-### [Publications](https://scholar.google.com/citations?user=LqWIQ8kAAAAJ)
+### Publications
+
+  [Refer to Google Scholar](https://scholar.google.com/citations?user=LqWIQ8kAAAAJ)
 
 ### Awards
 
