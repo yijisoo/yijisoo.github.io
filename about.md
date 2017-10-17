@@ -6,15 +6,14 @@ permalink: /about/
 
 ### Work
 
-* VP of Samsung Electronics leading the Intelligence Strategy Group (6/2015 - present)
-* [Associate Professor, Industrial Engineering, Purdue University](https://engineering.purdue.edu/IE/news/2015/professor-ji-soo-yi-promoted) (8/2014 - 6/2016)
-* [Assistant Professor, Industrial Engineering, Purdue University](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2008/Yi.htm) (8/2008 - 8/2014)
+* Vice President of Samsung Electronics leading the Intelligence Strategy Group (6/2015 - present)
+* [Associate Professor](https://engineering.purdue.edu/IE/news/2015/professor-ji-soo-yi-promoted), Industrial Engineering, Purdue University (8/2014 - 6/2016)
+* [Assistant Professor](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2008/Yi.htm), Industrial Engineering, Purdue University (8/2008 - 8/2014)
 
 ### Projects
 
 * Industrial
-  * [Bixby](https://en.wikipedia.org/wiki/Bixby_(virtual_assistant)), particularly [Viv Labs](http://viv.ai/) integration
-  * Open Q&A
+  * [Bixby](https://en.wikipedia.org/wiki/Bixby_(virtual_assistant)), particularly Open Q&A integration with Google and [Viv Labs](http://viv.ai/) integration
   * Samsung Keyboard
   * [Samsung Galaxy S7 (Unlocked)](http://www.androidcentral.com/galaxy-s7-unlocked)
   * [Quick Dial](https://news.samsung.com/global/quick-dial-the-easy-fast-way-to-make-a-phone-call)
