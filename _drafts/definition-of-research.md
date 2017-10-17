@@ -2,7 +2,7 @@ My definition of research is "an activity to lower uncertainty."
 
 This definition may differ from others because it does not assume that the results of research can guarantee an absolute truth, which can only rarely happen (e.g., a mathematical proof in a condition of a specific axioms). 
 
-The practical value of this defintion is helping researchers know what to focus when they conduct research. Because of the current academic research accumulation processes, researchers often focuses on persuading reviewers. 
+My personal practical value of this defintion is that it helped me clarify what to focus when I conduct research. Any activities that eventually lower uncertainty of a fact will be a part of research. Often, when I was too obsessed with publishing a paper or submitting a proposal, I often 
 
 This also makes me humble as a researcher. We do not invent something new. We merely discover and verify what is there. "Nothing new under the sun," a verb in Bible match well with this definition.
 
