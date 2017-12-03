@@ -27,7 +27,7 @@ permalink: /about/
 
 ### Awards
 
-* [Google Research Award](http://googleresearch.blogspot.com/2013/02/google -research-awards-winter-2013.html) (2013 Fall)
+* [Google Research Award](https://research.googleblog.com/2013/02/google-research-awards-winter-2013.html) (2013 Winter)
 * Purdue Entrepreneurial Leadership Academy (2012 - 2013)
 * Undergraduate Teaching Award: The first place (2011)
 * KUSCO-KSEA Scholarship (2007)
