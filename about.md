@@ -4,11 +4,19 @@ title: About
 permalink: /about/
 ---
 
+Ji Soo Yi is the vice president of the AI PM Group at Samsung Electronics. As one of founding members of the Bixby project (Samsung's AI Assistant), with his team members, he has designed the long-term strategy and detalied features of Bixby. He also leads the developer-relations team to grow the [Bixby developer ecosystem](https://bixbydevelopers.com/).
+
 ### Work
 
-* Vice President of Samsung Electronics leading the Intelligence Strategy Group (6/2015 - present)
+* Vice President of Samsung Electronics leading the AI PM Group (6/2015 - present)
 * [Associate Professor](https://engineering.purdue.edu/IE/news/2015/professor-ji-soo-yi-promoted), Industrial Engineering, Purdue University (8/2014 - 6/2016)
-* [Assistant Professor](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2008/Yi.htm), Industrial Engineering, Purdue University (8/2008 - 8/2014)
+* Assistant Professor, Industrial Engineering, Purdue University (8/2008 - 8/2014)
+
+### Media
+
+* Bixby Developer Day 2019 @ Seoul: https://www.youtube.com/watch?v=6q-c1Rc_6eg
+* Bixby Developer Day 2018 @ Seoul: https://www.youtube.com/watch?v=6q-c1Rc_6eg
+* Note 9 Unpacked (Bixby): https://youtu.be/bSbv8PCM0A0?t=4374
 
 ### Projects
 
