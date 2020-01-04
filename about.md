@@ -16,7 +16,7 @@ Ji Soo Yi is the vice president of the AI PM Group at Samsung Electronics. As on
 
 * Bixby Developer Day 2019 @ Seoul
 * [Bixby Developer Day 2018 @ Seoul](https://www.youtube.com/watch?v=6q-c1Rc_6eg)
-* [Note 9 Unpacked (Bixby)](https://youtu.be/bSbv8PCM0A0?t=4374)
+* [Note 9 Unpacked (Bixby)](https://youtu.be/bSbv8PCM0A0?t=4394)
 
 ### Projects
 
