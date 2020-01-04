@@ -21,7 +21,7 @@ Ji Soo Yi is the vice president of the AI PM Group at Samsung Electronics. As on
 ### Projects
 
 * Industrial
-  * [Bixby](https://en.wikipedia.org/wiki/Bixby_(virtual_assistant)) (Open Q&A and [Viv Labs](http://viv.ai/))
+  * [Bixby](https://en.wikipedia.org/wiki/Bixby_(virtual_assistant))
   * Samsung Keyboard
   * [Samsung Galaxy S7 (Unlocked)](http://www.androidcentral.com/galaxy-s7-unlocked)
   * [Quick Dial](https://news.samsung.com/global/quick-dial-the-easy-fast-way-to-make-a-phone-call)
