@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ji Soo Yi is the vice president of the AI PM Group at Samsung Electronics. As one of founding members of the Bixby project (Samsung's AI Assistant), with his team members, he has designed the long-term strategy and detalied features of Bixby. He also leads the developer-relations team to grow the [Bixby developer ecosystem](https://bixbydevelopers.com/).
+Ji Soo Yi is the vice president of AI PM Group at Samsung Electronics. As one of founding members of the Bixby project (Samsung's AI Assistant), with his team members, he has designed the long-term strategy and detalied features of Bixby. He also leads the developer-relations team to grow the [Bixby developer ecosystem](https://bixbydevelopers.com/).
 
 ### Work
 
@@ -31,7 +31,7 @@ Ji Soo Yi is the vice president of the AI PM Group at Samsung Electronics. As on
 
 ### Publications
 
-  [Refer to Google Scholar](https://scholar.google.com/citations?user=LqWIQ8kAAAAJ)
+  [Google Scholar](https://scholar.google.com/citations?user=LqWIQ8kAAAAJ)
 
 ### Awards
 
