@@ -26,3 +26,9 @@ Timeboxing is a technique to determine on what kinds of things to do for a given
 
 Page 68 (25%), 10pm, 1/6/2020
 
+It is very important to have a long term friendship. The idea that the author suggested was having kibbutz, which in Hebrew means "gathering." I really like this idea, but I wonder how I can gather these friends. Maybe the 인절미 group could be a candidate. However, we don't get together that often.
+
+Syncing my weekly schedule with my boss would be an interesting idea. I might need to try this idea with ES, so that he can understand what kinds of energy I spend.
+
+Page 78 (28%), 11:56pm, 1/7/2020
+
