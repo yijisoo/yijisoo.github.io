@@ -32,3 +32,7 @@ Syncing my weekly schedule with my boss would be an interesting idea. I might ne
 
 Page 78 (28%), 11:56pm, 1/7/2020
 
+It is always important to get the time undistracted.
+
+Page 93 (32%), 10:33pm, 1/8/2020
+
