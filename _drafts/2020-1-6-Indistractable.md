@@ -36,3 +36,5 @@ It is always important to get the time undistracted.
 
 Page 93 (32%), 10:33pm, 1/8/2020
 
+Page 98 (34%), 11:52pm, 1/9/2020 - largely distracted by Sharon Choi, who is the interpreter of Director Bong Joon Ho.
+
