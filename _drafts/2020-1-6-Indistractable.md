@@ -38,3 +38,5 @@ Page 93 (32%), 10:33pm, 1/8/2020
 
 Page 98 (34%), 11:52pm, 1/9/2020 - largely distracted by Sharon Choi, who is the interpreter of Director Bong Joon Ho.
 
+Page 103 (36%), 12:05am, 1/11/2020 - shoot...
+
