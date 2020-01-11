@@ -42,6 +42,8 @@ Page 103 (36%), 12:05am, 1/11/2020 - shoot...
 
 Around the pages around external trigger, this book became less insightful, and became more like tips and tricks to prevent you from various distraction (e.g., unnecessary meetings and attenting-grabbing mobile apps). These tips are surely useful (e.g., getting rid of unused apps), but not sure if they are the fundamental stuff. A more fundamental recommendation could be more like "build your surrounding environment less distracting." Your devices, apps, meetings are some physical / non-physical artifacts around you, which consumer your attention. I always go back to only verbage from Hebbert Simon, one of my all time heroes, who said, "In an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it."
 
+Simon, H. A. (1971) "Designing Organizations for an Information-Rich World" in: Martin Greenberger, Computers, Communication, and the Public Interest, Baltimore. MD: The Johns Hopkins Press. pp. 40–41.
+
 Oh, the idea of controling the external evironments is actually shown in Chapter 22, "the power of precommitments"
 
 The idea of using identity pact to be an inidstractable is quite interesting.
