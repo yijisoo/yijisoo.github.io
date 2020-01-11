@@ -49,3 +49,5 @@ Oh, the idea of controling the external evironments is actually shown in Chapter
 The idea of using identity pact to be an inidstractable is quite interesting.
 
 Ritual. I might need a daily ritual to make myself more focused person.
+
+One thing that I found refreshing is that other succesful people also experience the same problem. 
