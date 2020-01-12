@@ -51,3 +51,7 @@ The idea of using identity pact to be an inidstractable is quite interesting.
 Ritual. I might need a daily ritual to make myself more focused person.
 
 One thing that I found refreshing is that other succesful people also experience the same problem. 
+
+This book is also covering the work environment. If the work environment is full of distraction, there is something wrong about it. In order to cure this problem, the author suggested to have "psychological safety" in the team, so that members in the team can feel comfortable in speaking up.
+
+Page 178 (58%), 9:58pm, 1/12/2020
