@@ -55,3 +55,5 @@ One thing that I found refreshing is that other succesful people also experience
 This book is also covering the work environment. If the work environment is full of distraction, there is something wrong about it. In order to cure this problem, the author suggested to have "psychological safety" in the team, so that members in the team can feel comfortable in speaking up.
 
 Page 178 (58%), 9:58pm, 1/12/2020
+
+In order to make feel confident on their work, I think that I need to defend our folk's concentration and time instead of disrupting them.
