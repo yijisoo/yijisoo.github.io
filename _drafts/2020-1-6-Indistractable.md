@@ -57,3 +57,5 @@ This book is also covering the work environment. If the work environment is full
 Page 178 (58%), 9:58pm, 1/12/2020
 
 In order to make feel confident on their work, I think that I need to defend our folk's concentration and time instead of disrupting them.
+
+I also met with Toss PM, and their work culture is quite interesting. The nature of their incredible speed comes from a strong delegation to each leader, and the leader is fully supported by its team. It is in line with removing the distraction. One thing I found interesting was that they operate in a silo. Each silo is largely independent from each other, so that they can make all the decision to move forward. Can we have the system like that? Can we get rid of quality assurance team? That is the main question.
