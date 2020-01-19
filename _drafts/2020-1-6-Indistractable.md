@@ -1,10 +1,25 @@
-# Introduction
+---
+layout: post
+title: Indistractable by Nir Eyal
+---
 
-The book starts with the following excerpt, which is very true to me. I experiences lots of stressful moments, which have led me to obssess with more distraciton, which turns out to be more destructive.
+https://www.amazon.com/dp/194883653X/ref=cm_sw_em_r_mt_dp_U_EU8iEb0E3E627
 
-> "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." [reference][1]
+This is a book about how to avoid distraction. I have several moments of a-ha while reading this book, and it helped me avoid distraction from social media, email, and online videos, which often turned out not deserving my time and attention. This book is a record of Nir's personal journey to fight against distraction, so it contains a series of personal advice on how to fight against it. I am glad that I chose this book for the first book of Year 2020.
 
-[1]: Eyal, Nir. Indistractable (p. 24). BenBella Books, Inc.. Kindle Edition.
+The following is the major lessons that I feel useful while reading this book, which I hope that readers also find useful.
+
+First, the book starts with the following excerpt, which is very true to me. I experiences lots of stressful moments, which have led me to obssess with more distraciton, which turns out to be more destructive. Thus, often, the fight against the distraction is not about the distraction itself, but what is the source of distraction (e.g., the troubles at work), which is often not about the social media and other things.
+
+> "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." <sup>[1](#myfootnote1)/sup>
+
+<a name="myfootnote1">1</a> Eyal, Nir. Indistractable (p. 24). BenBella Books, Inc.. Kindle Edition.
+
+Second, 
+
+Third
+
+
 
 > It’s good to know that feeling bad isn’t actually bad; it’s exactly what survival of the fittest intended. [2]
 
@@ -61,3 +76,8 @@ In order to make feel confident on their work, I think that I need to defend our
 I also met with Toss PM, and their work culture is quite interesting. The nature of their incredible speed comes from a strong delegation to each leader, and the leader is fully supported by its team. It is in line with removing the distraction. One thing I found interesting was that they operate in a silo. Each silo is largely independent from each other, so that they can make all the decision to move forward. Can we have the system like that? Can we get rid of quality assurance team? That is the main question.
 
 In order to teach kids away from devices, we need to focus on people and relationship.
+
+Page 217 (70%) @2020-01-19 11:55:22
+
+Page 227 (73%, but the end of the book) @2020-01-19 12:16:15
+
