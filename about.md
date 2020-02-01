@@ -4,13 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Ji Soo Yi is the Vice President of Experience Planning Group at Samsung Electronics. Previously, he worked for Bixby by leading the Product Management and Developer Relations teams as well as for Samsung Keyboard as the product owner. Before joining Samsung, he taught industrial engineering at Purdue University.
+Ji Soo Yi is the Vice President of Experience Planning Group at Samsung Electronics, whose mission is delivering experience-driven product planning. Previously, he worked for Bixby by leading the Product Management and Developer Relations teams as well as for Samsung Keyboard as the product owner. Before joining Samsung, he taught at Purdue University and worked for some software companies.
 
 ### Work
 
 * Vice President, Samsung Electronics (6/2015 - present)
+    - Experience Planning Group (1/2020 - present)
+    - AI PM Group (12/2018 - 1/2020)
+    - AI Strategy Group (12/2017 - 12/2018)
+    - Intellience Strategy Group (5/2016 - 12/2017)
+    - UX Innovation Group 3 (6/2015 - 5/2016)
 * [Associate Professor](https://engineering.purdue.edu/IE/news/2015/professor-ji-soo-yi-promoted), Industrial Engineering, Purdue University (8/2014 - 6/2016)
 * Assistant Professor, Industrial Engineering, Purdue University (8/2008 - 8/2014)
+* Namo Interactive Inc. (9/2001 - 5/2003)
+* Mizi Research, Inc (8/2000 - 3/2001)
+* Insung Information Co., Ltd. (1/1998 - 7/2000)
 
 ### Media
 
@@ -42,5 +50,5 @@ Ji Soo Yi is the Vice President of Experience Planning Group at Samsung Electron
 
 ### Education
 
-* Ph.D., [ISyE, Georgia Institute of Technology](https://www.isye.gatech.edu/) in 2008
-* B.S., [IE, Seoul National University](http://ie.snu.ac.kr/) in 1998
+* Ph.D., [ISyE, Georgia Institute of Technology](https://www.isye.gatech.edu/) (8/2003 - 8/2008)
+* B.S., [IE, Seoul National University](http://ie.snu.ac.kr/) (3/1994 - 2/1998)
