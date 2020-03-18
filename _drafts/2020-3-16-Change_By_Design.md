@@ -10,3 +10,7 @@ I started to read this book, but the progress has been quite slow. I read that D
 Well, do I know design thinking? I don't think so. I haven't have any good example of outcomes that I personally generate through design thinking. I think that I need to do it by myself.
 
 I also found that the author doesn't believe in user-generated contents. It is somewhat odd that many software projects are now open sources. Thus, I wonder why the author has such a view.
+
+I get that insights are not the results of analytic thinking. However, it is good to know that they may come more often to the prepared minds. "Certain themes and variations--techniques of observations, principles of empathy, and efforts to move beyond the individuals" might be the clue to push the people in the boundary.
+
+However, I wonder if we think of anything "move beyond the indviduals"
