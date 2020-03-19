@@ -13,4 +13,6 @@ I also found that the author doesn't believe in user-generated contents. It is s
 
 I get that insights are not the results of analytic thinking. However, it is good to know that they may come more often to the prepared minds. "Certain themes and variations--techniques of observations, principles of empathy, and efforts to move beyond the individuals" might be the clue to push the people in the boundary.
 
-However, I wonder if we think of anything "move beyond the indviduals"
+However, I wonder if we think of anything "move beyond the indviduals." This idea should be considered as well.
+
+The idea of divergent and promoting experiments was emphasized in the book, but I don't know whether we have the culture of accepting these yet. Culturally, we are too risk averse, which made people think that unsuccessful projects are wasteful. I need to demonstrate in the meeting that the seemingly wasteful projects actually turned out to be the successful project.
