@@ -16,3 +16,5 @@ I get that insights are not the results of analytic thinking. However, it is goo
 However, I wonder if we think of anything "move beyond the indviduals." This idea should be considered as well.
 
 The idea of divergent and promoting experiments was emphasized in the book, but I don't know whether we have the culture of accepting these yet. Culturally, we are too risk averse, which made people think that unsuccessful projects are wasteful. I need to demonstrate in the meeting that the seemingly wasteful projects actually turned out to be the successful project.
+
+One of the key ideas was to continue different experiments toward the better results. I don't know whether they experienced these or not. I am not super happy with the current outcomes, but I cannot continuously push without the direction.
