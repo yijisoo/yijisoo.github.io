@@ -18,3 +18,5 @@ However, I wonder if we think of anything "move beyond the indviduals." This ide
 The idea of divergent and promoting experiments was emphasized in the book, but I don't know whether we have the culture of accepting these yet. Culturally, we are too risk averse, which made people think that unsuccessful projects are wasteful. I need to demonstrate in the meeting that the seemingly wasteful projects actually turned out to be the successful project.
 
 One of the key ideas was to continue different experiments toward the better results. I don't know whether they experienced these or not. I am not super happy with the current outcomes, but I cannot continuously push without the direction.
+
+Reading a book is often providing stimuli to me to think about my mistakes. I just read about making the organization positive and optimistic. Yes, it is obvious, but when I just criticized my group last week, and it made me feel guilty on what I just did. I think that it is important to have sufficient sleep so that I can control my temper. Without sufficient sleep, I reveal my uncontroled frustration easily.
