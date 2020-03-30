@@ -22,3 +22,7 @@ One of the key ideas was to continue different experiments toward the better res
 Reading a book is often providing stimuli to me to think about my mistakes. I just read about making the organization positive and optimistic. Yes, it is obvious, but when I just criticized my group last week, and it made me feel guilty on what I just did. I think that it is important to have sufficient sleep so that I can control my temper. Without sufficient sleep, I reveal my uncontroled frustration easily.
 
 I don't know what would be the most effective way to prototype our phones. The form factor, unless we go to the direction of a completely crazy shape, is likely a usual bar or foldables. Then, what else do we have to prototype? Software side is relatively easy. However, is that all?
+
+Well, I think that it is too slow to prototype anything to persuade our users. We need to deal with some initial ideas and start to build rough prototypes, so that we can persuade our users. The thing is that for our phones, we may not be able to do that.
+
+The understanding of true user needs. We need to understand what are the true needs. We need to further investigate how things are going.
