@@ -12,7 +12,7 @@ When I advised my students like this, students often say the following:
 3. "All the details (e.g., the number of participants and tasks that the participants will be asked to do) are unknown, so how can I write the research methods."
 4. "Past tense? Isn't it a lie? I haven't started my experiment."
 
-Here is my common response, and answer.
+Here is my response:
 
 1. Before you start the research, writing the research method will help you visualize what kinds of detailed activities you need to prepare.
 2. Writting in past tense tends to make the visualization more specific and clearer compared to writing in future tense.
