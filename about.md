@@ -34,7 +34,9 @@ Ji Soo Yi is the Vice President of Experience Planning Group at Samsung Electron
   * [Samsung Galaxy S7 (Unlocked)](http://www.androidcentral.com/galaxy-s7-unlocked)
   * [Quick Dial](https://news.samsung.com/global/quick-dial-the-easy-fast-way-to-make-a-phone-call)
 * Academic
-  * [Dust & Magnet](https://github.com/yijisoo/DnM/)
+  * [Dust & Magnet](https://github.com/yijisoo/DnM/)  
+  * [ReadingMate](https://www.youtube.com/watch?v=DD8Sge6uSgA)
+* Hobby
   * [anathe](http://anathe.herokuapp.com/)
 
 ### Publications
