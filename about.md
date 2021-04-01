@@ -13,7 +13,7 @@ Ji Soo Yi is the Vice President of Next-Generation Experience Planning Team at S
   - Experience Planning Group (1/2020 - 12/2020)
   - AI PM Group (12/2018 - 1/2020)
   - AI Strategy Group (12/2017 - 12/2018)
-  - Intellience Strategy Group (5/2016 - 12/2017)
+  - Intelligence Strategy Group (5/2016 - 12/2017)
   - UX Innovation Group 3 (6/2015 - 5/2016)
 * [Associate Professor](https://engineering.purdue.edu/IE/news/2015/professor-ji-soo-yi-promoted), Industrial Engineering, Purdue University (8/2014 - 6/2016)
 * Assistant Professor, Industrial Engineering, Purdue University (8/2008 - 8/2014)
