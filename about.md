@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Ji Soo Yi is the Vice President of Next-Generation Experience Planning Team at Samsung Electronics, whose mission is delivering user insights from the future and advance research. Previously, he worked for Bixby by leading the Product Management and Developer Relations teams as well as for Samsung Keyboard as the product owner. Before joining Samsung, he taught at Purdue University and worked for some software companies.
+Ji Soo Yi is the Vice President of Next-Generation Experience Planning Team at Samsung Electronics. His primary mission is delivering the long-term consumer experience directions based on deep understanding of fundamental human needs as well as designing a concrete concepts/user scenarios exemplifying the experience directions. Previously, he worked on Bixby by leading the Product Management and Developer Relations teams as well as for Samsung Keyboard as the product owner. Before joining Samsung, he taught at Purdue University and worked for some software companies.
 
 ### Work
 
 * Vice President, Samsung Electronics (6/2015 - present)
-  - Next-Generation Experience Planning Team (12/202 - present)
+  - Next-Generation Experience Planning Team (12/2020 - present)
   - Experience Planning Group (1/2020 - 12/2020)
   - AI PM Group (12/2018 - 1/2020)
   - AI Strategy Group (12/2017 - 12/2018)
