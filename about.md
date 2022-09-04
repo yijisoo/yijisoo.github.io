@@ -9,7 +9,7 @@ Ji Soo Yi is the Vice President of Next-Generation Experience Planning Team at S
 ### Work
 
 * Vice President, Samsung Electronics (6/2015 - present)
-  - Customer Experience Insight Group (12/2020 - present)
+  - CX Insight Group (12/2021 - present)
   - Next-Generation Experience Planning Team (12/2020 - 12/2021)
   - Experience Planning Group (1/2020 - 12/2020)
   - AI PM Group (12/2018 - 1/2020)
