@@ -4,23 +4,26 @@ title: About
 permalink: /about/
 ---
 
-Ji Soo Yi is the Vice President of Next-Generation Experience Planning Team at Samsung Electronics. His primary mission is delivering the long-term consumer experience directions based on deep understanding of fundamental human needs as well as designing a concrete concepts/user scenarios exemplifying the experience directions. Previously, he worked on Bixby by leading the Product Management and Developer Relations teams as well as for Samsung Keyboard as the product owner. Before joining Samsung, he taught at Purdue University and worked for some software companies.
+Ji Soo Yi is an Executive Advisor at Samsung Electronics and an Adjunct Professor at KAIST. His current focus is on evolving human cognition in the era of AI — building tools and frameworks that help people stay cognitively engaged as AI becomes more capable ([evolvingselves.com](https://evolvingselves.com)). At Samsung, he has led long-term consumer experience planning, product management for Bixby and Samsung Keyboard, and AI strategy. Before joining Samsung, he taught at Purdue University (HCI and Industrial Engineering).
 
 ### Work
 
-* Vice President, Samsung Electronics (6/2015 - present)
-  - CX Insight Group (12/2021 - present)
-  - Next-Generation Experience Planning Team (12/2020 - 12/2021)
-  - Experience Planning Group (1/2020 - 12/2020)
-  - AI PM Group (12/2018 - 1/2020)
-  - AI Strategy Group (12/2017 - 12/2018)
-  - Intelligence Strategy Group (5/2016 - 12/2017)
-  - UX Innovation Group 3 (6/2015 - 5/2016)
-* [Associate Professor](https://engineering.purdue.edu/IE/news/2015/professor-ji-soo-yi-promoted), Industrial Engineering, Purdue University (8/2014 - 6/2016)
-* Assistant Professor, Industrial Engineering, Purdue University (8/2008 - 8/2014)
-* Namo Interactive Inc. (9/2001 - 5/2003)
-* Mizi Research, Inc (8/2000 - 3/2001)
-* Insung Information Co., Ltd. (1/1998 - 7/2000)
+* Adjunct Professor, [KAIST](https://www.kaist.ac.kr/) (2/2026 - present)
+  - AI-Driven Business Evolution: Strategy and Practice (Spring 2026)
+* Samsung Electronics (6/2015 - present)
+  - Executive Advisor (1/2026 - present)
+  - Corporate VP, Head of Experience Planning Team (12/2024 - 12/2025)
+  - Corporate VP, Head of CX Insight Team (12/2021 - 12/2024)
+  - Corporate VP, Next-Gen Experience Planning (1/2020 - 12/2021)
+  - Corporate VP, Head of AI Strategy & Product Management (5/2016 - 1/2020)
+    - Bixby: Development, PM, DevRel, Strategy
+    - Samsung Keyboard: Product Owner
+  - Corporate VP, UX Innovation (6/2015 - 5/2016)
+* Associate/Assistant Professor, Purdue University (8/2008 - 6/2016)
+* Graduate Research Assistant, Georgia Institute of Technology (8/2003 - 8/2008)
+* Software Engineer, Namo Interactive (9/2001 - 5/2003)
+* Embedded Linux Programmer, Mizi Research (8/2000 - 3/2001)
+* Programmer/Consultant, Insung Information Co. (1/1998 - 7/2000)
 
 ### Media
 
@@ -34,10 +37,12 @@ Ji Soo Yi is the Vice President of Next-Generation Experience Planning Team at S
   * [Bixby](https://en.wikipedia.org/wiki/Bixby_(virtual_assistant))
   * Samsung Keyboard
   * [Samsung Galaxy S7 (Unlocked)](http://www.androidcentral.com/galaxy-s7-unlocked)
-  * [Quick Dial](https://news.samsung.com/global/quick-dial-the-easy-fast-way-to-make-a-phone-call)
 * Academic
-  * [Dust & Magnet](https://github.com/yijisoo/DnM/)  
+  * [Dust & Magnet](https://www.youtube.com/watch?v=wLXwL38xek0)  
   * [ReadingMate](https://www.youtube.com/watch?v=DD8Sge6uSgA)
+* Independent
+  * [Evolving Selves](https://evolvingselves.com) — a digital product studio focused on human cognitive evolution in the age of AI, building tools for cognitive discipline, momentum, and metacognition
+  * [kardens.io](https://kardens.io) — a writing environment where AI makes you a better thinker, not a faster typist, combining a personal knowledge garden with an AI writing coach
 * Hobby
   * [anathe](http://anathe.herokuapp.com/)
 

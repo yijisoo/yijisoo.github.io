@@ -6,7 +6,7 @@
 name: Ji Soo Yi
 
 # Short bio or description (displayed in the header)
-description: Experience, a refreshing one
+description: AI is evolving. Are we?
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://pbs.twimg.com/profile_images/52509359/jyi_400x400.jpg
@@ -74,7 +74,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
